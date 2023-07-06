@@ -1,6 +1,7 @@
 import { page } from '@playwright/test'
 
-class Homepage{
+class Homepage
+{
 
     constructor()
     {
